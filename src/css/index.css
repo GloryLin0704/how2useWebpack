@@ -1,0 +1,9 @@
+.img {
+  height: 340px;
+  width: 800px;
+  display: block;
+  margin: 100px auto;
+  background-image: url('../images/1558693475000.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
